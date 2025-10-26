@@ -1,36 +1,53 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🍽️ Catering Service Management UI
 
-## Getting Started
+> A React + TypeScript project showcasing the core features of a modern catering management platform. This UI demonstrates a dynamic pricing engine, a comprehensive admin dashboard, and an interactive menu builder.
 
-First, run the development server:
+![Catering Service Demo](https://via.placeholder.com/800x400.png?text=Add+a+Demo+GIF+or+Screenshot+Here)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+*(Suggestion: Record a short GIF of you interacting with the component and replace the link above. This is crucial for portfolio projects.)*
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ✨ Core Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+This project highlights three key modules of a full-scale catering system:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+* **Dynamic Pricing Engine:** Engineered a dynamic pricing engine that generates instant, customizable quotes based on menu selections, guest count, and dietary needs, significantly streamlining the sales funnel.
+* **Comprehensive Admin Dashboard:** Architected a full-featured administrative dashboard for seamless order management, client relationship tracking (CRM), and kitchen order ticket (KOT) generation, centralizing core business operations.
+* **Interactive Menu Builder:** Implemented an interactive menu builder with real-time allergen and dietary filtering, applying complex business logic to ensure valid selections and enhance the user experience.
 
-## Learn More
+## 🛠️ Tech Stack
 
-To learn more about Next.js, take a look at the following resources:
+* **Frontend:** React, TypeScript
+* **Styling:** Tailwind CSS
+* **Icons:** Lucide React
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🚀 Getting Started
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+This project was bootstrapped with [Vite](https://vitejs.dev/).
 
-## Deploy on Vercel
+### Prerequisites
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+* Node.js (v18 or newer)
+* `npm` or `yarn`
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Installation & Running
+
+1.  **Clone the repository:**
+    ```sh
+    git clone [https://github.com/your-username/catering-project.git](https://github.com/your-username/catering-project.git)
+    cd catering-project
+    ```
+
+2.  **Install dependencies:**
+    ```sh
+    npm install
+    ```
+
+3.  **Run the development server:**
+    ```sh
+    npm run dev
+    ```
+    Open [http://localhost:5173](http://localhost:5173) (or the port specified in your terminal) to view it in the browser.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the `LICENSE` file for details.
