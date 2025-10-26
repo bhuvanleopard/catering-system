@@ -3,7 +3,6 @@
 > A React + TypeScript project showcasing the core features of a modern catering management platform. This UI demonstrates a dynamic pricing engine, a comprehensive admin dashboard, and an interactive menu builder.
 >
 > 
-*(Suggestion: Record a short GIF of you interacting with the component and replace the link above. This is crucial for portfolio projects.)*
 
 ## ✨ Core Features
 
