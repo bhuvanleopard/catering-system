@@ -1,9 +1,8 @@
 # 🍽️ Catering Service Management UI
 
 > A React + TypeScript project showcasing the core features of a modern catering management platform. This UI demonstrates a dynamic pricing engine, a comprehensive admin dashboard, and an interactive menu builder.
-
-![Catering Service Demo](https://via.placeholder.com/800x400.png?text=Add+a+Demo+GIF+or+Screenshot+Here)
-
+>
+> 
 *(Suggestion: Record a short GIF of you interacting with the component and replace the link above. This is crucial for portfolio projects.)*
 
 ## ✨ Core Features
@@ -33,7 +32,7 @@ This project was bootstrapped with [Vite](https://vitejs.dev/).
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/your-username/catering-project.git](https://github.com/your-username/catering-project.git)
+    git clone [https://github.com/bhuvanleopard/catering-service.git](https://github.com/bhuvanleopard/catering-service.git)
     cd catering-project
     ```
 
