@@ -1,51 +1,36 @@
-# 🍽️ Catering Service Management UI
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-> A React + TypeScript project showcasing the core features of a modern catering management platform. This UI demonstrates a dynamic pricing engine, a comprehensive admin dashboard, and an interactive menu builder.
->
-> 
+## Getting Started
 
-## ✨ Core Features
+First, run the development server:
 
-This project highlights three key modules of a full-scale catering system:
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-* **Dynamic Pricing Engine:** Engineered a dynamic pricing engine that generates instant, customizable quotes based on menu selections, guest count, and dietary needs, significantly streamlining the sales funnel.
-* **Comprehensive Admin Dashboard:** Architected a full-featured administrative dashboard for seamless order management, client relationship tracking (CRM), and kitchen order ticket (KOT) generation, centralizing core business operations.
-* **Interactive Menu Builder:** Implemented an interactive menu builder with real-time allergen and dietary filtering, applying complex business logic to ensure valid selections and enhance the user experience.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## 🛠️ Tech Stack
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-* **Frontend:** React, TypeScript
-* **Styling:** Tailwind CSS
-* **Icons:** Lucide React
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## 🚀 Getting Started
+## Learn More
 
-This project was bootstrapped with [Vite](https://vitejs.dev/).
+To learn more about Next.js, take a look at the following resources:
 
-### Prerequisites
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-* Node.js (v18 or newer)
-* `npm` or `yarn`
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-### Installation & Running
+## Deploy on Vercel
 
-1.  **Clone the repository:**
-    ```sh
-    git clone [https://github.com/bhuvanleopard/catering-service.git](https://github.com/bhuvanleopard/catering-service.git)
-    cd catering-project
-    ```
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-2.  **Install dependencies:**
-    ```sh
-    npm install
-    ```
-
-3.  **Run the development server:**
-    ```sh
-    npm run dev
-    ```
-    Open [http://localhost:5173](http://localhost:5173) (or the port specified in your terminal) to view it in the browser.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details.
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
